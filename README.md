@@ -1,6 +1,5 @@
-# Branch Atividade 01
+# Branch da disciplina de Desenvolvimento web 2
 
-Esta branch contem a Atividade 01 do projeto de Web 2, com foco em migrations no Laravel para o sistema de biblioteca.
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="140" />
